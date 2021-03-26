@@ -1,0 +1,6 @@
+framework module Pods_testeSicredi_testeSicrediUITests {
+  umbrella header "Pods-testeSicredi-testeSicrediUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
